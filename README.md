@@ -14,7 +14,8 @@ Bu proje, Arduino Uno kullanarak harici bir LED'in 1 saniye aralıklarla yakıl�
 1. **Arduino Pin 13** ucundan çıkan kabloyu breadboard üzerindeki **220Ω direncin** bir bacağına bağlayın.
 2. Direncin diğer bacağını LED'in **uzun bacağı (Anot / +)** ile aynı dikey sütuna yerleştirin.
 3. LED'in **kısa bacağını (Katot / -)** başka bir kablo ile Arduino üzerindeki **GND** pinine bağlayın.
-
+wokwi üzerinde devre bağlantısı:
+https://wokwi.com/projects/481510713492699137
 Not: 220Ω direnç, LED üzerinden geçen akımı sınırlandırarak LED'in zarar görmesini engeller.
 
 ## Çalışma Mantığı
