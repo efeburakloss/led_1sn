@@ -16,7 +16,7 @@ Bu proje, Arduino Uno kullanarak harici bir LED'in 1 saniye aralıklarla yakıl�
 3. LED'in **kısa bacağını (Katot / -)** başka bir kablo ile Arduino üzerindeki **GND** pinine bağlayın.
 4. wokwi üzerinde devre bağlantısı:
 5. https://wokwi.com/projects/481510713492699137
-Not: 220Ω direnç, LED üzerinden geçen akımı sınırlandırarak LED'in zarar görmesini engeller.
+6. Not: 220Ω direnç, LED üzerinden geçen akımı sınırlandırarak LED'in zarar görmesini engeller.
 
 ## Çalışma Mantığı
 * `setup()` fonksiyonu içerisinde 13 numaralı pin çıkış (`OUTPUT`) olarak ayarlanır.
